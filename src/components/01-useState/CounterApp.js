@@ -1,6 +1,6 @@
 //Functional component => rfc 
 import React, { useState } from 'react';
-import '../../counter.css';
+import './counter.css';
 
 export const CounterApp = () => {
     
